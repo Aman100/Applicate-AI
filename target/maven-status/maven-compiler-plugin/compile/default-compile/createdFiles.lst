@@ -1,0 +1,8 @@
+com\applicateAI\cool\repository\CatalogRepository.class
+com\applicateAI\cool\model\Catalog.class
+com\applicateAI\cool\model\Supplier.class
+com\applicateAI\cool\CoolApplication.class
+com\applicateAI\cool\repository\SupplierRepository.class
+com\applicateAI\cool\service\CatalogService.class
+com\applicateAI\cool\service\SupplierService.class
+com\applicateAI\cool\CatalogController.class
